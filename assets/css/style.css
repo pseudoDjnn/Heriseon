@@ -1,4 +1,4 @@
-/* Init CSS template */
+/* Init CSS template for the whole html */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -18,7 +18,7 @@ p {
   font-size: 16px;
 }
 
-/* Header CSS */
+/* Header CSS with img style and navigation links */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -53,11 +53,7 @@ p {
   margin-left: 25px;
 }
 
-/* .header nav ul li a {
-  color: #ffffff;
-  text-decoration: none;
-} */
-
+/* Secondary and directed navigation end for bussiness model */
 .hero {
   height: 800px;
   width: 100%;
@@ -100,6 +96,7 @@ p {
   font-size: 36px;
 }
 
+/* Right panel PNGs and declarations */
 .benefits {
   margin-right: 20px;
   padding: 20px;
