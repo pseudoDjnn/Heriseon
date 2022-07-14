@@ -4,4 +4,4 @@
 https://pseudodjnn.github.io/Heriseon/
 
 
-![Screenshot (10)](https://user-images.githubusercontent.com/105378214/179116138-c8b877d3-bd75-4db2-b741-9763e65fdb1e.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/105378214/179116257-81a94c38-7a4a-498e-b79a-68d8ea2d4fc2.png)
