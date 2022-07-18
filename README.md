@@ -1,5 +1,7 @@
 # © 2019 Horiseon Social Solution Services, Inc.
 
+###Refactored CSS and cleaned HTML website
+
 ### Website
 https://pseudodjnn.github.io/Heriseon/
 
